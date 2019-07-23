@@ -1,0 +1,24 @@
+.P_number{
+    width:100%;
+    text-align:center;
+    font-size:33px;
+    color:white;
+    font-weight: 600;
+}
+.daily{
+    width:50px;height:20px;
+    float:right;
+    margin:0px;
+}
+.HR{
+    height: 1px;float: left;width: 100%;margin-top: 10px;margin-bottom: 4px;
+}
+.WH{
+    color:white;
+    font-weight:500;
+    font-size:40px;
+}
+.card{
+	border-radius:16px;
+}              
+	                   
