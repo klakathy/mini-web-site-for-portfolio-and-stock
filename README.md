@@ -48,8 +48,8 @@ Change of SQL platform may result to invalid SQL data format or failure of query
 
 ## Features
 
-The website focus on assessing the performance of risk financial data, including stocks and portfolios. To deliver better visualization and analysis, the main features are grouped into six categories (respectively in each webpage) for different needs of users. 
-![big gif!!!](readme_img/XXXXXXXXXXXXX)
+The website focus on assessing the performance of risk financial data, including stocks and portfolios. To deliver better visualization and analysis, the main features are grouped into six categories (respectively in each webpage) for different needs of users.  
+![big gif!!!](readme_img/gif1.gif)  
 
 ### Performance page
 ![performance](readme_img/perform3.png)  
