@@ -40,7 +40,7 @@ Change of SQL platform may result to invalid SQL data format or failure of query
   - Import SQL data in `sql` folder and complete database account properties setting in `db.properties` in [DASHBOARD8/src](/DASHBOARD8/src/)  
     <br/>
   - Architecture Overview  
-    ![project structure!!!](readme_img/XXXXXX)  
+    ![project structure!!!](readme_img/structure1.png)  
     This project deploys the architecture separating front- and backend on the website. Ajax is used to communicate the two sides. Data is transfered in JSON format.  
     In `/DASHBOARD8/WebContent` folder, the files contain jsp and html scripts as well as their relavent css and js setting files used for frontend operation.
     `/DASHBOARD8/src` folder includes files responsible for backend development. To be more specific, `dbutil` builds the package for database connection; `option` records the classes initiated for the information and price indexes of risk data; and `SQL` takes charge of specific functions used for transferring data to each webpage.   
