@@ -127,4 +127,4 @@ A detailed user manual, explaining usage instructions and analysis methods is up
 
 ## Contribution
 
-This is a group project for a course. My teammate Andi and Sean worked together to accomplish this work. <br/>
+This is a group project for a course. My teammate Andi, Sean and I worked together to accomplish this work. <br/>
