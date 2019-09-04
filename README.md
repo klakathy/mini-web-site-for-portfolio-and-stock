@@ -125,6 +125,6 @@ Component page helps define a new portfolio by grouping multiple assets. Choose 
 A detailed user manual, explaining usage instructions and analysis methods is uploaded in Dashboard8 folder, [manual.pdf](/DASHBOARD8/WebContent/manual.pdf). This documentation can also be reached through `User Manual` button in dropdown list in the webpage sidebar.  
 <br/><br/>
 
-## Team
+## Contribution
 
 This is a group project for a course. My teammate Andi and Sean worked together to accomplish this work. <br/>
