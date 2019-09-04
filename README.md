@@ -7,7 +7,6 @@ This repository includes a website designed in purpose for providing a dashboard
 <br/><br/>
 
 ## Getting started
-<hr>
 
 ### Usage
 The website can perform successfully through popular web browsers, Chrome, Firefox, Safari, etc. without installation after publishing. On mobile devices is also supported. For more stable usage, Chrome is recommended on mobile side.
@@ -47,7 +46,6 @@ Change of SQL platform may result to invalid SQL data format or failure of query
 <br/><br/>
 
 ## Features
-<hr>
 
 ### Performance page
 ![performance](readme_img/perform1.png)
@@ -73,12 +71,10 @@ Change of SQL platform may result to invalid SQL data format or failure of query
 ![cus](readme_img/cus2.png)
 
 ## Documentation
-<hr>
 
 A detailed user manual, explaining usage instructions and analysis methods is uploaded in Dashboard8 folder, [manual.pdf](/DASHBOARD8/WebContent/manual.pdf). This documentation can also be reached through `User Manual` button in dropdown list in the webpage sidebar.  
 <br/><br/>
 
 ## Contributors
-<hr>
 
 This is a group project for a course.  <br/>
