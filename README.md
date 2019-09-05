@@ -1,8 +1,9 @@
 # Stock portfolio dashboard
 *A data visualization dashboard for stock portfolio based on JSP, MySQL and eCharts.*  
+<br/>
 ![add icon/screenshot](readme_img/icon1.png)  
+<br/>
 
-<br/><br/>
 This repository includes a website designed in purpose for providing a dashboard for financial assets including stocks and portfolios. It interprets the large amount of complicated data in a financial risk-performance manner and visualizes them into multiple types of diagram for easy analysis. By allowing new data added manually using sql script or automatically using the function in customize page to the database, it continuously gives valuable insights of how certain assets should be evaluated and ranked statistically. Financial companies, professional analysts and individual investors are targeting users of this website.
 <br/><br/>
 
