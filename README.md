@@ -14,9 +14,7 @@ The website can perform successfully through popular web browsers, Chrome, Firef
 
 ### Testing data
 The website is developed based on MySQL, sample data format can be seen in [sql folder](sql).   It currently has data of two-year prices of S&P500 index and its GICS Sector indexes, which is also the testing data of the project. The data is downloaded from [barchart.com](https://www.barchart.com/).  
-<br/>
-For each stock or portfolio, short code is demanded, other basic description including name, industry classification (stored in `stocks` table), portfolio component weight (stored in `weights` table) can be added as needed. Besides foundation information, daily close price is required for all dataset, adding other price variables (open, highest, lowest price) into `prices` table will bring a better view for the website dashboard. Other variables in `prices` table are filled with the calculation of the system. Further instructions are shown in [initiation section](###Installation).  
-![er model](readme_img/er1.png)  
+<br/> 
 Change of SQL platform may result to invalid SQL data format or failure of query functions on the website.
 <br/><br/>
 ### Installation
