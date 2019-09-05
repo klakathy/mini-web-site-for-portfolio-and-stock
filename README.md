@@ -1,5 +1,5 @@
-# mini-web-site-for-portfolio-and-stock
-*For risk data visualizing and analyzing*  
+# Stock portfolio dashboard
+*A data visualization dashboard for stock portfolio based on JSP, MySQL and eCharts.*  
 ![add icon/screenshot](readme_img/icon1.png)  
 
 <br/><br/>
